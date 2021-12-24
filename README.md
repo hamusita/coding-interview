@@ -1,0 +1,2 @@
+# about
+coding interviewでアホほど落ちまくったのでその勉強
